@@ -2,7 +2,7 @@ data
 __pycache__
 path.sh
 exp
-models/
+models
 exp*/
 *.pt
 download
