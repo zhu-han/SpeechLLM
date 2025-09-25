@@ -25,6 +25,7 @@ By "LLM-based ASR models", we refer to a model architecture in which speech feat
 
 ```bash
 pip install -r requirements.txt
+pip install huggingface_hub['cli']
 ```
 
 Install k2: refer to https://k2-fsa.org/get-started/k2/ for details.

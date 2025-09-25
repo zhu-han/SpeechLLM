@@ -1,0 +1,8 @@
+torch
+git+https://github.com/lhotse-speech/lhotse
+sentencepiece
+tensorboard
+transformers>=4.37.0
+flash-attn
+peft
+kaldialign
